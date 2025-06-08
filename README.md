@@ -1,4 +1,6 @@
-# Pony Express - a chat application
+# Full-Stack Chat Application
+
+This course was completed during the Spring of 2024, during my undergraduate course on Web Development. This full-stack application serves as a chat service, allowing users to add/remove other users, send messages to other users of the application, and create/manage exising chat logs. The backend is built using Python FastAPI, and the frontend is constructed using React and Tailwind CSS. All APIs are custom, and managed using FastAPI.
 
 ## Backend
 
